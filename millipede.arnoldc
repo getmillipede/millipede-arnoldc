@@ -1,0 +1,25 @@
+IT'S SHOWTIME
+
+    HEY CHRISTMAS TREE isLessThan20
+    YOU SET US UP @NO PROBLEMO
+
+    HEY CHRISTMAS TREE n
+    YOU SET US UP 0
+
+    TALK TO THE HAND "    ╚⊙ ⊙╝"
+
+    STICK AROUND isLessThan20
+        GET TO THE CHOPPER n
+            HERE IS MY INVITATION n
+            GET UP 1
+        ENOUGH TALK
+
+        GET TO THE CHOPPER isLessThan20
+            HERE IS MY INVITATION 20
+            LET OFF SOME STEAM BENNET n
+        ENOUGH TALK
+
+        TALK TO THE HAND "  ╚═(███)═╝"
+    CHILL
+
+YOU HAVE BEEN TERMINATED
